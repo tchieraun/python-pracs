@@ -7,18 +7,7 @@ This repo is a collection of simple, well-documented Python scripts designed to 
 
 ## 📌 What's Inside?
 
-This repository will be containing a variety of small Python programs and exercises covering:
-
-- ✅ Basic Syntax & Input/Output
-- ✅ Variables and Data Types
-- ✅ Conditional Statements (`if`, `elif`, `else`)
-- ✅ Loops (`for`, `while`)
-- ✅ Functions & Recursion
-- ✅ Lists, Tuples, Sets, Dictionaries
-- ✅ String Manipulation
-- ✅ Pattern Printing
-- ✅ Number Programs (Prime, Armstrong, Factorial, etc.)
-- ✅ Mini Projects (like Calculator, Quiz, etc.)
+This repository will be containing a variety of small Python programs and exercises.
 
 ---
 
