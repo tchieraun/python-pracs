@@ -8,7 +8,7 @@ elif operator == "-" :
     print(num - num2)
 elif operator == "*" :
     print(num * num2)
-elif operator == "%" :
-    print(num * num2)
+elif operator == "/" :
+    print(num / num2)
 else:
     print("Please enter a valid operator! ")
