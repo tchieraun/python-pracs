@@ -19,7 +19,3 @@ This repository will be containing a variety of small Python programs and exerci
 
 - Python filename.py
 
-## 🫶🏻 Connect with Me
-- 🔗 LinkedIn: in/rounak-sharma-615b42306
-- 📧 Email: rounak1122004@gmail.com
-
